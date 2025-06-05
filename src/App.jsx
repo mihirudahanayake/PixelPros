@@ -31,7 +31,6 @@ function App() {
                         <HomePage />
                         <PopularDish />
                         <MenuPage />
-                        
                     </>
                 } />
                 
@@ -42,8 +41,6 @@ function App() {
                         <HomePage />
                         <PopularDish />
                         <MenuPage />
-                        
-                        
                     </>
                 } />
 
