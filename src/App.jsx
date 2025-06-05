@@ -25,7 +25,7 @@ function App() {
                 {/* Default route: LandingPage */}
                 {/* <Route path="/" element={<LandingPage />} /> */}
 
-                {/* Combined home page view */}
+                {/* Default route: home page */}
                 <Route path="/" element={
                     <>
                         <HomePage />
@@ -36,6 +36,7 @@ function App() {
                     </>
                 } />
                 
+                {/* Combined home page view */}
 
                 <Route path="/home" element={
                     <>
